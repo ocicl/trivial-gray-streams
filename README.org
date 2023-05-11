@@ -1,0 +1,10 @@
+* trivial-gray-streams
+
+This system provides an extremely thin compatibility layer for gray
+streams.
+
+|---------+----------------------------------------------------------------------|
+| source  | git:https://github.com/trivial-gray-streams/trivial-gray-streams.git |
+| commit  | 2b3823e                                                              |
+| systems | trivial-gray-streams                                                 |
+|---------+----------------------------------------------------------------------|
