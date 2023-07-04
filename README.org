@@ -5,6 +5,6 @@ streams.
 
 |---------+----------------------------------------------------------------------|
 | source  | git:https://github.com/trivial-gray-streams/trivial-gray-streams.git |
-| commit  | 2b3823e                                                              |
+| commit  | f873865                                                              |
 | systems | trivial-gray-streams                                                 |
 |---------+----------------------------------------------------------------------|
